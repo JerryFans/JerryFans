@@ -3,7 +3,7 @@
 ### Hello，I'm JerryFans 👋
 
 - :hammer: iOS & Swifter & Flutter
-- :video_game: 喜欢打王者
+- :video_game: 王者荣耀
 - :star: 热衷于各种新技术
 - :apple: 狂热的果粉
 
