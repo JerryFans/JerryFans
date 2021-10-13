@@ -1,4 +1,11 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JerryFans&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello，I'm JerryFans 👋
+
+- :hammer: iOS & Swifter & Flutter
+- :video_game: 喜欢打王者
+- :star: 热衷于各种新技术
+- :apple: 狂热的果粉
 
 <!--
 **JerryFans/JerryFans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
