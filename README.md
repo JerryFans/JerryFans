@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JerryFans&show_icons=true&theme=default_repocard&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JerryFans&show_icons=true&theme=default_repocard&border_color=CE1D2D&hide_title=true" />
 
 ### Hello，I'm JerryFans 👋
 
