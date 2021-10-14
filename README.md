@@ -6,6 +6,8 @@
 - :video_game: 王者荣耀
 - :star: 热衷于各种新技术
 - :apple: 狂热的果粉
+- :link: [掘金Blog](https://juejin.im/user/5d7755106fb9a06add4e5685)
+- :link: [https://jerryfans.com](https://jerryfans.com)
 
 <!--
 **JerryFans/JerryFans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
