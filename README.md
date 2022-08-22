@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryfans&layout=compact" />  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryfans&layout=compact&hide=javascript,html" />  
