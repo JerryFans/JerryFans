@@ -5,7 +5,7 @@
 - :hammer: iOS & Swifter & Flutter
 - :star: 热衷于各种新技术
 - :apple: 狂热的果粉
-- :link: [https://jerryfans.com](https://jerryfans.com)
+- :link: [https://juejin.cn/user/2946346894254094)
 
 <!--
 **JerryFans/JerryFans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
