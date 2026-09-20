@@ -8,6 +8,13 @@ Senior iOS and Flutter developer based in Guangzhou, China.
 - Open-source contributor to FlutterBoost, Lottie-iOS, and lottie_flutter
 - Interested in AI-assisted development with Codex, OpenClaw, and Trae
 
+## GitHub Stats
+
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JerryFans&theme=default" alt="Top languages by repository" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JerryFans&theme=default" alt="JerryFans GitHub statistics" />
+</p>
+
 ## Featured Projects
 
 - [JFPopup](https://github.com/JerryFans/JFPopup) - A Swift popup framework supporting drawers, dialogs, and bottom sheets
