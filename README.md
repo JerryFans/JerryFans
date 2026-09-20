@@ -5,8 +5,7 @@ Senior iOS and Flutter developer based in Guangzhou, China.
 - 10 years of iOS development experience
 - 6 years of Flutter and native hybrid development experience
 - Focused on Swift, Objective-C, Dart, audio/video, performance optimization, and engineering productivity
-- Open-source contributor to FlutterBoost, Lottie-iOS, and lottie_flutter
-- Interested in AI-assisted development with Codex, OpenClaw, and Trae
+- Interested in AI-assisted development with Codex and Claude
 
 ## GitHub Stats
 
